@@ -7,7 +7,7 @@ import pandas as pd
 # 페이지 기본 설정
 st.set_page_config(
     page_icon="👻",
-    page_title="스트림릿 배포하기",
+    page_title="인바디 이미지 분석",
     layout="wide",
 )
 
